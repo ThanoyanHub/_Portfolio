@@ -3,7 +3,7 @@ AOS.init({ duration: 1200, once: true });
 
 // Typing Animation
 new Typed('#role-typing', {
-    strings: ['FullStack Developer', 'UI/UX Designer', 'Solution Architect'],
+    strings: ['FullStack Developer', 'UI/UX Designer'],
     typeSpeed: 60,
     backSpeed: 40,
     loop: true,
